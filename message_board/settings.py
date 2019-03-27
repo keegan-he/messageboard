@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     
     'products',
+    'pages',
 
     #third party apps go here
     #your own apps go here
